@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    width: 560px;
+    height: 686px;
+    padding: 50px 10px 10px 50px;
+    left: 0;
+    top: 0;
+    background: #ffffff;    
+}
+
+.container {
+    padding: 20px;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+.title {
+    margin-bottom: 36px; 
+    color: #19304F;   
+}
+
+
+.profile {
+    margin-right: 10px;
+    line-height: 18px;
+    margin-bottom: 36px;
+    color: #19304F;   
+   
+}
+
+.experiencia {
+    margin-right: 10px;
+    line-height: 18px;
+    margin-bottom: 36px;
+    color: #19304F;   
+}
+
+.educacao {
+    margin-right: 10px;
+    line-height: 18px;
+    margin-bottom: 36px;
+    color: #19304F;   
+}
+
+.projeto {
+    margin-right: 10px;
+    line-height: 18px;
+    margin-bottom: 36px;
+    color: #19304F;   
+}
+
+.box-container {
+    padding: 20px;
+    border: 1px solid blue;
+    width: 250px;
+    height: 522px;
+    left: 610px;
+    top: 50px;
+    background: #19304F;
+    color: #ffffff;
+    position: absolute;
+    display: grid;
+    float: left;
+    text-align: justify;
+}
+
+.contato {
+    margin-left: 11px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.conhecimento {
+    margin-right: 11px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+article p {
+    text-decoration: underline;
+    display: block;
+    text-align: left;
+    text-overflow: unset;
+    margin-right: 9px;
+}
